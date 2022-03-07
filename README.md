@@ -4,7 +4,7 @@ revisões para a ufcd 10789. Metodologias de Desenvolvimento de Software
 Metodologias clássicas:
 em cascata - Waterfall
 
-Metodologias Agile
+Metodologias Ágeis, Agil, Agile
 SCRUM
 KANBAN
 
@@ -23,5 +23,5 @@ git commit -m " readme atualizado!"
 2) fazer um git push
 
 do servidor (Github) para o local
-1) alterar coisas no github..
+1) alterar coisas no github.. , efazer um commmit
 2) no nosso pc, portanto no repositorio local fazer git pull
